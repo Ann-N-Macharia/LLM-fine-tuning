@@ -1,0 +1,13 @@
+
+[
+    
+  {
+    "question": "My landlord has told me to leave my house tomorrow because I haven't paid rent. Can they do this?",
+
+    "answer": "Whether your landlord can require you to leave immediately depends on the type of tenancy and the circumstances. Kenyan law provides different protections depending on the tenancy arrangement.
+    If this is a controlled tenancy, the Landlord and Tenant (Shops, Hotels and Catering Establishments) Act provides specific requirements for termination and notice.
+    You should therefore first establish what type of tenancy you have and whether you have received the required notice. If your landlord is threatening immediate eviction,
+    consider seeking assistance from a legal-aid provider or the appropriate court."
+  }
+
+  ]
